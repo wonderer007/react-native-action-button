@@ -82,7 +82,6 @@ export default class ActionButtonItem extends Component {
       alignItems: "center",
       width: size,
       height: size,
-      borderRadius: size / 2,
       backgroundColor: this.props.buttonColor || this.props.btnColor
     };
 
